@@ -1,1 +1,1 @@
-Repository for usage in ABIS java training
+Repository for usage in ABIS java training.
